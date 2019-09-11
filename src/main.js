@@ -2,8 +2,8 @@ import $ from 'jquery';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './styles.css';
-import { WeatherService } from './weather-service';
-import { GiphyGenerator } from './weather-service';
+// import {  } from './bike';
+
 
 $(document).ready(function() {
   $('#weatherLocation').click(function() {
